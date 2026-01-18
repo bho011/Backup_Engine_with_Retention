@@ -1,0 +1,12 @@
+﻿{
+    "Retention":  {
+                      "DailyKeep":  7,
+                      "WeeklyKeep":  4
+                  },
+    "Backup":  {
+                   "Quellen":  [
+                                   "c:\\Data"
+                               ],
+                   "ZielRoot":  "D:\\Backup"
+               }
+}
